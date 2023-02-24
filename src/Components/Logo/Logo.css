@@ -6,7 +6,7 @@
   align-items: center;
   width: 120px;
   height: 120px;
-  background-color: linear-gradient(to right, rgb(214, 255, 252), rgb(226, 124, 254));
+  background: linear-gradient(to right, rgb(226, 255, 253), #ffe2fd);
   color: white;
   border-radius: 5px;
   transform-style: preserve-3d;
