@@ -3,4 +3,4 @@ The ongoing implementation of Optivision, a face detection application built usi
 
 Clarifai API is used to detect faces in images.
 
-View the app here -> https://opti-vision-naveendwgn.vercel.app/ (Works just fine with detecting a single face in an image)
+Alpha build -> https://opti-vision-naveendwgn.vercel.app/ (Works just fine with detecting a single face in an image)
