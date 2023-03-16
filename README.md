@@ -7,11 +7,11 @@ Alpha build -> https://opti-vision-naveendwgn.vercel.app/ (Works just fine with 
 
 ## Installation
 
-Clone the repository and run the following commands:
+To run the project:
 
-npm install
-
-npm start
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
 
 ## Technologies Used
 
